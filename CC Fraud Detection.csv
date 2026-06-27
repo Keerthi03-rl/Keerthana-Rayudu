@@ -1,0 +1,11 @@
+Transaction_ID,Amount,Transaction_Time,Location,Merchant_Category,Previous_Transactions,Card_Present,International_Transaction,Fraud
+TXN001,2500,10:15,Vijayawada,Grocery,15,Yes,No,0
+TXN002,50000,02:30,Delhi,Electronics,2,No,Yes,1
+TXN003,1200,14:20,Hyderabad,Restaurant,20,Yes,No,0
+TXN004,75000,03:10,Mumbai,Jewelry,1,No,Yes,1
+TXN005,3500,18:45,Vijayawada,Fuel,18,Yes,No,0
+TXN006,62000,01:15,Kolkata,Electronics,0,No,Yes,1
+TXN007,800,09:30,Guntur,Pharmacy,25,Yes,No,0
+TXN008,45000,04:00,Chennai,Travel,1,No,Yes,1
+TXN009,2200,12:10,Vijayawada,Grocery,22,Yes,No,0
+TXN010,90000,02:50,Bangalore,Luxury Goods,0,No,Yes,1
